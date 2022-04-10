@@ -1,0 +1,7 @@
+Terminal run: 
+npm i react-router-dom
+npm i react-dom
+npm i react
+npm i moment
+
+npm start
